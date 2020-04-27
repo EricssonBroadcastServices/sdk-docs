@@ -1,0 +1,23 @@
+html, body {
+  font-family: "Open Sans";
+  color: #676767;
+}
+
+header {
+
+}
+
+h1, h2 {
+  color: #781428;
+}
+
+img#logo {
+  width: 100px;
+  margin: auto;
+}
+
+content img {
+  height: 50px;
+  display: block;
+  margin: 15px auto;
+}
